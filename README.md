@@ -1,0 +1,2 @@
+# latihanruby
+latihan ruby
